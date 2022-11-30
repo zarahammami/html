@@ -11,6 +11,3 @@
    <?php
    echo"cette fois,mon PHPest <strong> interpréte <strong/>"
 
-   ?>
-</body>
-</html>
